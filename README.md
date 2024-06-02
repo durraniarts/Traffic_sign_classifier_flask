@@ -89,3 +89,9 @@ This will automatically create, activate and install all dependencies mentioned 
 ```cli
 - pip freeze > requirements.txt
 ```
+
+## To Run Project
+
+```cli
+- flask --app main run
+```
